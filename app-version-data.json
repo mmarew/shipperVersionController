@@ -4,6 +4,6 @@
     "latest_version": "1.1.1",
     "force_update": true,
     "message": "A critical system update is required to continue.",
-    "store_url": "market://details?id=com.driverloadnow"
+    "store_url": "market://details?id=com.shipperloadnow"
   }
 }
