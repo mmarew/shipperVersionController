@@ -1,7 +1,7 @@
 {
   "android": {
-    "min_version": "1.5.27",
-    "latest_version": "1.5.27",
+    "min_version": "1.5.28",
+    "latest_version": "1.5.28",
     "force_update": true,
     "message": "A critical system update is required to continue.",
     "store_url": "market://details?id=com.shipperloadnow"
